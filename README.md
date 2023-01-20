@@ -1,15 +1,18 @@
 ## Hi, I'm Bere! 👩🏻‍💻
 
-<p><em>Electronic an Comunications Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a><img 
+<p><em>Electronic an Comunications Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
+  
 
 [![Linkedin: Berenice Hernández](https://img.shields.io/badge/<Berenice>-<blue>)](https://www.linkedin.com/in/beresdev/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/beresdev)](https://github.com/beresdev)
+  
+  
+[![GitHub beresdev](https://img.shields.io/github/followers/beresdev)](https://github.com/beresdev)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const bere = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [Node, Jest],
