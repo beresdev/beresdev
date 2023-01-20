@@ -4,6 +4,7 @@
   
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-beresdev-blue)(https://www.linkedin.com/in/beresdev/)
+[![Linkedin: beresdev](https://img.shields.io/badge/LinkedIn-beresdev-blue&link=https://www.linkedin.com/in/beresdev/)]
   
   
 [![GitHub beresdev]([https://img.shields.io/github/followers/beresdev](https://img.shields.io/badge/Github-beresdev-lightgrey))](https://github.com/beresdev)
