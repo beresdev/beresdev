@@ -28,3 +28,6 @@ const bere = {
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
