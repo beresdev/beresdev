@@ -1,5 +1,7 @@
 ## Hi, I'm Bere! 👩🏻‍💻
 
+### Front-end developer 🚀
+
 <p><em>Electronic an Comunications Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
   
 
