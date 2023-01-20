@@ -4,9 +4,6 @@
   
 
 ![Linkedin: beresdev](https://img.shields.io/badge/-beresdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beresdev/)
-  
-  
-[![GitHub beresdev]([https://img.shields.io/github/followers/beresdev](https://img.shields.io/badge/Github-beresdev-lightgrey))](https://github.com/beresdev)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -23,8 +20,8 @@ const bere = {
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![CSS3](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=JavaScript)
+![CSS3](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=CSS3)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
