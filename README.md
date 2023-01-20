@@ -3,8 +3,7 @@
 <p><em>Electronic an Comunications Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
   
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-beresdev-blue)(https://www.linkedin.com/in/beresdev/)
-[![Linkedin: beresdev](https://img.shields.io/badge/LinkedIn-beresdev-blue&link=https://www.linkedin.com/in/beresdev/)]
+[![Linkedin: beresdev](https://img.shields.io/badge/-beresdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beresdev/)]
   
   
 [![GitHub beresdev]([https://img.shields.io/github/followers/beresdev](https://img.shields.io/badge/Github-beresdev-lightgrey))](https://github.com/beresdev)
