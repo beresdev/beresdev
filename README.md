@@ -3,7 +3,7 @@
 <p><em>Electronic an Comunications Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
   
 
-[![Linkedin: Berenice Hernández][(https://img.shields.io/badge/LinkedIn-beresdev-blue)](https://www.linkedin.com/in/beresdev/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-beresdev-blue)(https://www.linkedin.com/in/beresdev/)
   
   
 [![GitHub beresdev]([https://img.shields.io/github/followers/beresdev](https://img.shields.io/badge/Github-beresdev-lightgrey))](https://github.com/beresdev)
