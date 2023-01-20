@@ -20,10 +20,8 @@ const bere = {
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=JavaScript)
-![CSS3](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=CSS3)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
