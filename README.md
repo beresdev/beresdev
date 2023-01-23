@@ -2,7 +2,7 @@
 
 ### Front-end developer 🚀
 
-<p><em>Electronic an Comunications Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
+<p><em>Communications and Electronics Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
   
 
 ![Linkedin: beresdev](https://img.shields.io/badge/-beresdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beresdev/)
