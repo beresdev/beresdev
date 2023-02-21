@@ -13,8 +13,8 @@
 ```javascript
 const bere = {
   pronouns: "she" | "her",
-  challenge: "I am studing Wed development at Laboratoria <L> 💛 ",
-  strengths: self-taught person, curiosity, adaptability
+  challenge: "I am studying Web development at Laboratoria <L> 💛 ",
+  strengths: "self-taught person, curiosity, adaptability"
 }
 ```
 
