@@ -3,9 +3,11 @@
 ### Front-end developer 🚀
 
 <p><em>Communications and Electronics Engineer at <a href="https://www.ipn.mx/">National Polytechnic Institute</a>
-  
+
 
 ![Linkedin: beresdev](https://img.shields.io/badge/-beresdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beresdev/)
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beresdev/)](https://www.linkedin.com/in/beresdev/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
