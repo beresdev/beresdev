@@ -12,7 +12,7 @@
 ```javascript
 const bere = {
   pronouns: "she" | "her",
-  challenge: "I am studying Java and Data Science",
+  challenge: "I am learning C# and Data Science",
   strengths: "self-taught person, curiosity, adaptability"
 }
 ```
